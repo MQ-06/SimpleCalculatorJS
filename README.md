@@ -16,19 +16,12 @@ A next-gen JavaScript calculator that does basic math with futuristic vibes. Cle
 
 ---
 
-## 📸 Sneak Peek
-
-![Calculator Screenshot](./screenshot.png)
-
-> *Don’t just add numbers — add style to your math.*
-
----
 
 ## 🛠️ Tech Stack
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
