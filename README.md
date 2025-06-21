@@ -1,6 +1,6 @@
-# 🧮 NeoCalculator
+# 🧮 SimpleCalculator
 
-A next-gen JavaScript calculator that does basic math with futuristic vibes. Clean UI, vanilla JS, and ready to crunch numbers like a pro. ✨
+A next-gen JavaScript calculator that does basic math with futuristic vibes. Clean UI, JS, and ready to crunch numbers like a pro. ✨
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=your-username&repo=NeoCalculator&style=flat-square)
 
@@ -24,13 +24,6 @@ A next-gen JavaScript calculator that does basic math with futuristic vibes. Cle
 
 ---
 
-## 💻 Live Demo
-
-🔗 [Click here to try it out!](https://your-username.github.io/NeoCalculator/)  
-*(Make sure to deploy using GitHub Pages!)*
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5  
@@ -42,13 +35,13 @@ A next-gen JavaScript calculator that does basic math with futuristic vibes. Cle
 ## 📁 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/NeoCalculator.git
-cd NeoCalculator
+git clone https://github.com/MQ-06/SimpleCalculatorJS.git
+cd SimpleCalculatorJS
 open index.html
 ```
 ---
 ## 🌟 What's Unique?
-NeoCalculator isn’t just functional — it’s fun, lightweight, and built with the idea that even small projects can look cool.
+SimpleCalculatorJS isn’t just functional it’s fun, lightweight, and built with the idea that even small projects can look cool.
 Whether you're a beginner or revisiting the basics, this is a great foundation to build on.
 
 # 🙌 Let’s Connect
